@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Financial Times Archived Redirector",
+  "version": "1.0",
+  "description": "Replaces links on ft.com with archive.ph versions",
+  "icons": {
+    "48": "icon.png"
+  },
+  "permissions": ["scripting"],
+  "host_permissions": ["*://*.ft.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.ft.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
