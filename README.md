@@ -2,7 +2,7 @@
 
 ## Description
 
-Financial Times Archived Redirector is a Chrome extension that automatically replaces links on the Financial Times website (ft.com) with their corresponding archived versions from archive.ph. This extension helps users access FT articles through archive.ph, potentially bypassing paywalls and preserving article content.
+Financial Times Archived Redirector is a Chrome extension that automatically replaces links on the Financial Times website (ft.com) with their corresponding archived versions from archive.ph.
 
 ## Features
 
@@ -49,4 +49,6 @@ Contributions to improve the extension are welcome. Please feel free to submit i
 
 ## License
 
-[MIT License](LICENSE)
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this software to the public domain worldwide. This software is distributed without any warranty.
